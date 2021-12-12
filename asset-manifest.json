@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/agnovasideias/static/css/main.8d4f288c.chunk.css",
+    "main.js": "/agnovasideias/static/js/main.847da263.chunk.js",
+    "main.js.map": "/agnovasideias/static/js/main.847da263.chunk.js.map",
+    "runtime-main.js": "/agnovasideias/static/js/runtime-main.1d8f8562.js",
+    "runtime-main.js.map": "/agnovasideias/static/js/runtime-main.1d8f8562.js.map",
+    "static/js/2.1b7ae69e.chunk.js": "/agnovasideias/static/js/2.1b7ae69e.chunk.js",
+    "static/js/2.1b7ae69e.chunk.js.map": "/agnovasideias/static/js/2.1b7ae69e.chunk.js.map",
+    "index.html": "/agnovasideias/index.html",
+    "static/css/main.8d4f288c.chunk.css.map": "/agnovasideias/static/css/main.8d4f288c.chunk.css.map",
+    "static/js/2.1b7ae69e.chunk.js.LICENSE.txt": "/agnovasideias/static/js/2.1b7ae69e.chunk.js.LICENSE.txt",
+    "static/media/1.2a884e9f.svg": "/agnovasideias/static/media/1.2a884e9f.svg",
+    "static/media/2.8ef12de5.svg": "/agnovasideias/static/media/2.8ef12de5.svg",
+    "static/media/3.71e66654.svg": "/agnovasideias/static/media/3.71e66654.svg",
+    "static/media/4.4ee60f9e.svg": "/agnovasideias/static/media/4.4ee60f9e.svg",
+    "static/media/about.3f4d2098.png": "/agnovasideias/static/media/about.3f4d2098.png",
+    "static/media/index.css": "/agnovasideias/static/media/banner.744e1449.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d8f8562.js",
+    "static/js/2.1b7ae69e.chunk.js",
+    "static/css/main.8d4f288c.chunk.css",
+    "static/js/main.847da263.chunk.js"
+  ]
+}
